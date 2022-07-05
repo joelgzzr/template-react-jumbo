@@ -1,0 +1,6 @@
+{
+  "printWidth": 119,
+  "singleQuote": true,
+  "prettier": { "arrowParens": "avoid" }
+}
+  
